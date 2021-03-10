@@ -26,3 +26,73 @@ main {
 .card-title {
 	position: left;
 }
+
+.title {
+	margin-left: 500px;
+}
+
+.container-2 {
+	margin-top: 130px;
+	margin-left: 90px;
+}
+
+.fa-js {
+	margin-left: 150px;
+	margin-top: 40px;
+}
+
+.fa-react {
+	margin-left: 50px;
+	margin-bottom: 80px;
+}
+
+.fa-node {
+	margin-left: 50px;
+}
+
+.fa-envira {
+	margin-left: 50px;
+}
+
+.fa-bootstrap {
+	margin-left: 50px;
+}
+
+.profile-text {
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	margin-bottom: 50px;
+}
+
+.container-3 {
+	margin-top: 60px;
+	margin-left: 90px;
+}
+
+.homepage-language-title {
+	margin-left: 50px;
+}
+
+.homepage-project-title {
+	margin-left: 50px;
+}
+
+.image {
+	width: 900px;
+	height: 600px;
+	margin-left: 20px;
+	margin-top: 40px;
+}
+
+.project-row {
+	margin-left: 100px;
+}
+
+.project-text {
+	margin-left: 90px;
+	margin-top: 50px;
+}
+
+.projects-list {
+	margin-top: 60px;
+	margin-left: 1px;
+}
