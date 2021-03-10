@@ -5,6 +5,7 @@ import Header from './components/Header';
 import HomeScreen from './screens/HomeScreen';
 import ProjectScreen from './screens/ProjectScreen';
 import ProScreen from './screens/ProScreen';
+import AboutScreen from './screens/AboutScreen';
 import './index.css';
 
 const App = () => {
@@ -14,6 +15,7 @@ const App = () => {
 			<main className="py-3">
 				<Route path="/" component={HomeScreen} exact />
 				<Route path="/projects" component={ProjectScreen} />
+				<Route path="/about" component={AboutScreen} />
 				<Route path="/project/:id" component={ProScreen} />
 			</main>
 		</Router>
