@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Row, Col, Image, ListGroup, Card, Button } from 'react-bootstrap';
+import { Row, Col, Image, ListGroup } from 'react-bootstrap';
 import projects from '../projects';
 
 const ProScreen = ({ match }) => {
@@ -27,6 +27,7 @@ const ProScreen = ({ match }) => {
 							<p>{project.features}</p>
 						</ListGroup.Item>
 						<ListGroup.Item>{project.link}</ListGroup.Item>
+						<ListGroup.Item>{project.git}</ListGroup.Item>
 					</ListGroup>
 				</Col>
 			</Row>

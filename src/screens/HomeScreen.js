@@ -21,7 +21,7 @@ const Homepage = () => {
 				<Image className="home-image" src="images/tim-3.jpg" fluid />
 				<div className="container-2">
 					<p className="profile-text">
-						I have been coding for almost 2 years, with the last year focussing on learning and building apps with the
+						I have been coding for almost 2 years, with the last year focussing on learning and building apps using the
 						MERN stack. I am seeking a full time position in order to increase my knowledge and skills as a developer.
 					</p>
 				</div>
@@ -33,7 +33,6 @@ const Homepage = () => {
 					<i className="fab fa-node fa-7x"></i> {''}
 					<i className="fab fa-envira fa-7x"></i> {''}
 					<i className="fab fa-bootstrap fa-7x"></i> {''}
-					<i className="fab fa-github fa-7x"></i> {''}
 				</div>
 
 				<div className="container-4">
