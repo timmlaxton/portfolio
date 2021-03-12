@@ -32,7 +32,7 @@ const projects = [
 	{
 		_id: '4',
 		name: 'Gutties',
-		image: '/images/gutties.jpg',
+		image: '/images/gut.jpg',
 		description:
 			'E-commerce app, built using MERN stack. This app was built with the aim of trying to build an e-commerce site which sold trainers (gutties). Building on my previous apps, I wanted to create an app that could sell products. Features include: user sign up to account, users login, create, delete, add and update product, filter of product by size, colour and brand. Users can add rating and review to each product. Checkout page where users could buy the product they had selected. Paypal was also added so that transactions could be completed',
 		features:
