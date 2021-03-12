@@ -13,9 +13,6 @@ const Homepage = () => {
 					<div className="container">
 						<h1>Hello, my name is Tim Laxton, welcome to my portfolio site!</h1>
 						<p></p>
-						<p>
-							<Button variant="primary">About Me</Button>
-						</p>
 					</div>
 				</div>
 				<Image className="home-image" src="images/tim-3.jpg" fluid />
