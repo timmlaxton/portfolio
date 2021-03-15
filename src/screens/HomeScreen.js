@@ -11,7 +11,7 @@ const Homepage = () => {
 			<main>
 				<div Jumbotron className="jumbotron">
 					<div className="container">
-						<h1>
+						<p>
 							I have been coding and building my own apps for the last two years, and developed a good knowledge of
 							HTML, CSS and JavaScript, React and Bootstrap. On a personal level, I am highly-motivated, result
 							oriented, self-driven, hard-working, fast learner and constantly seeking to improve my skills and am fully
@@ -19,7 +19,7 @@ const Homepage = () => {
 							type of team environment, I am team oriented and get along with others when working in a group setting. I
 							also have the ability to work independently while staying on schedule and meeting those tight deadlines.
 							Below is a list of my current technical skills:
-						</h1>
+						</p>
 						<p></p>
 					</div>
 				</div>
