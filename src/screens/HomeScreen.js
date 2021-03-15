@@ -11,16 +11,21 @@ const Homepage = () => {
 			<main>
 				<div Jumbotron className="jumbotron">
 					<div className="container">
-						<h1>Hello, my name is Tim Laxton, welcome to my portfolio site!</h1>
+						<h1>
+							I have been coding and building my own apps for the last two years, and developed a good knowledge of
+							HTML, CSS and JavaScript, React and Bootstrap. On a personal level, I am highly-motivated, result
+							oriented, self-driven, hard-working, fast learner and constantly seeking to improve my skills and am fully
+							aware of the latest Front-end Development Tools. In addition to this, I have the ability to adapt to any
+							type of team environment, I am team oriented and get along with others when working in a group setting. I
+							also have the ability to work independently while staying on schedule and meeting those tight deadlines.
+							Below is a list of my current technical skills:
+						</h1>
 						<p></p>
 					</div>
 				</div>
 				<Image className="home-image" src="images/tim-3.jpg" fluid />
 				<div className="container-2">
-					<p className="profile-text">
-						I have been coding for almost 2 years, with the last year focussing on learning and building apps using the
-						MERN stack. I am seeking a full time position in order to increase my knowledge and skills as a developer.
-					</p>
+					<p className="profile-text"></p>
 				</div>
 				<br />
 				<div className="container-3">
