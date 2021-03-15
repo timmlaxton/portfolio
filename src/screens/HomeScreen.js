@@ -12,7 +12,6 @@ const Homepage = () => {
 				<div Jumbotron className="jumbotron">
 					<div className="container">
 						<h1>Hello, my name is Tim Laxton, welcome to my portfolio site!</h1>
-						<p></p>
 					</div>
 				</div>
 				<Image className="home-image" src="images/tim-3.jpg" fluid />
