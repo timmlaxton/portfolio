@@ -22,10 +22,13 @@ const Homepage = () => {
 							I have been coding and building my own apps for the last two years, and developed a good knowledge of
 							HTML, CSS and JavaScript, React and Bootstrap. On a personal level, I am highly-motivated, result
 							oriented, self-driven, hard-working, fast learner and constantly seeking to improve my skills and am fully
-							aware of the latest Front-end Development Tools. In addition to this, I have the ability to adapt to any
-							type of team environment, I am team oriented and get along with others when working in a group setting. I
-							also have the ability to work independently while staying on schedule and meeting those tight deadlines.
-							Below is a list of my current technical skills:
+							aware of the latest Front-end Development Tools.{' '}
+						</p>
+
+						<p>
+							In addition to this, I have the ability to adapt to any type of team environment, I am team oriented and
+							get along with others when working in a group setting. I also have the ability to work independently while
+							staying on schedule and meeting those tight deadlines. Below is a list of my current technical skills:
 						</p>
 					</p>
 				</div>
