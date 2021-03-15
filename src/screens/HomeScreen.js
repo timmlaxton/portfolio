@@ -27,7 +27,7 @@ const Homepage = () => {
 						<p>
 							In addition to this, I have the ability to adapt to any type of team environment, I am team oriented and
 							get along with others when working in a group setting. I also have the ability to work independently while
-							staying on schedule and meeting those tight deadlines. Below is a list of my current technical skills:
+							staying on schedule and meeting those tight deadlines. Below is a list of my current technical skills.
 						</p>
 					</p>
 				</div>
