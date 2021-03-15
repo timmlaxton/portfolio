@@ -11,6 +11,13 @@ const Homepage = () => {
 			<main>
 				<div Jumbotron className="jumbotron">
 					<div className="container">
+						<h1>Hello, my name is Tim Laxton, welcome to my portfolio site!</h1>
+						<p></p>
+					</div>
+				</div>
+				<Image className="home-image" src="images/tim-3.jpg" fluid />
+				<div className="container-2">
+					<p className="profile-text">
 						<p>
 							I have been coding and building my own apps for the last two years, and developed a good knowledge of
 							HTML, CSS and JavaScript, React and Bootstrap. On a personal level, I am highly-motivated, result
@@ -20,12 +27,7 @@ const Homepage = () => {
 							also have the ability to work independently while staying on schedule and meeting those tight deadlines.
 							Below is a list of my current technical skills:
 						</p>
-						<p></p>
-					</div>
-				</div>
-				<Image className="home-image" src="images/tim-3.jpg" fluid />
-				<div className="container-2">
-					<p className="profile-text"></p>
+					</p>
 				</div>
 				<br />
 				<div className="container-3">
