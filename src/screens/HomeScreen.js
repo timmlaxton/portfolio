@@ -1,5 +1,5 @@
 import React from 'react';
-import { Button, Row, Col, Image } from 'react-bootstrap';
+import { Row, Col, Image } from 'react-bootstrap';
 import projects from '../projects';
 import Project from '../components/Project';
 
