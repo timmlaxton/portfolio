@@ -5,11 +5,10 @@ import { Card } from 'react-bootstrap';
 const Project = ({ project }) => {
 	return (
 		<Card className="projects-list">
-			<Link to={`/project/${project._id}`}>
-				<Card.Img src={project.image} variant="top" />
-			</Link>
-
 			<Card.Body>
+				<Link to={`/project/${project._id}`}>
+					<Card.Img src={project.image} variant="top" />
+				</Link>
 				<Link to={`/project/${project._id}`}>
 					<Card.Title as="div">{project.name}</Card.Title>
 				</Link>

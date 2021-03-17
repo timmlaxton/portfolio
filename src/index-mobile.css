@@ -1,0 +1,44 @@
+@media screen and (max-width: 768px) {
+	.home-image {
+		margin: 1rem auto;
+		display: block;
+		height: auto;
+	}
+
+	.profile-text {
+		margin-top: 0;
+	}
+
+	.container-2 {
+		margin-left: 0;
+		margin-bottom: 2rem;
+		width: auto;
+	}
+
+	.container-3 {
+		margin-left: 0;
+		width: auto;
+	}
+
+	.container-4 {
+		margin-left: 0;
+	}
+
+	.homepage-project-title {
+		margin-left: 0;
+	}
+
+	.container-2,
+	.container-3,
+	.container-4 {
+		padding: 0 1.5rem;
+	}
+
+	.projects-list {
+		margin-left: 0 !important;
+		height: auto !important;
+	}
+	.card-body {
+		height: auto !important;
+	}
+}

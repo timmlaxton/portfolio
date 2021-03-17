@@ -34,8 +34,6 @@ main {
 .home-image {
 	width: 180px;
 	height: 600px;
-	margin-top: 90px;
-	margin-left: 210px;
 }
 
 .container-2 {
@@ -78,7 +76,6 @@ main {
 
 .profile-text {
 	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-	margin-top: -180px;
 }
 
 .container-4 {
@@ -93,7 +90,6 @@ main {
 }
 
 .homepage-project-title {
-	margin-left: 50px;
 }
 
 .image {
@@ -179,4 +175,19 @@ main {
 	margin-top: 80px;
 	color: #818181;
 	font-size: 20px;
+}
+
+.tools-icons {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 2rem;
+}
+
+.tools-icons i {
+	margin: 0;
+}
+
+.tools-icons i + i {
+	/* padding-left: 1rem; */
 }
