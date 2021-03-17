@@ -49,6 +49,13 @@ const projects = [
 			'Features include: users sign up to account, users login, create, delete, add and update product. Users can create a profile and see a histry of their transactions. Checkout page where users could buy the product they had selected. Paypal was also added so that transactions could be completed. Admin functionality was also added, which records stock levels and reductions in number of items when a sale is made',
 		link: 'https://citycentrecomicsapp.herokuapp.com/',
 		git: 'https://github.com/timmlaxton/comic'
+	},
+	{
+		_id: '6',
+		name: 'Travel',
+		image: '/images/doon.jpg',
+		description: 'E-commerce app, built using MERN stack. Travel app that allows users to search and book holidays. ',
+		features: 'In development, currently being built'
 	}
 ];
 

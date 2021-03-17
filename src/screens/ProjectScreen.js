@@ -9,7 +9,7 @@ const ProjectScreen = () => {
 			<h1 className="title">Projects</h1>
 			<Row>
 				{projects.map((project) => (
-					<Col sm={2} md={2} lg={2} xl={2}>
+					<Col sm={6} md={6} lg={6} xl={4}>
 						<Project project={project} />
 					</Col>
 				))}
