@@ -14,7 +14,7 @@ export const AboutScreen = () => {
         </Col>
         <ListGroup.Item className="about-text">
           <p>
-            nope been interested in coding for a while but did little about it,
+            MEM been interested in coding for a while but did little about it,
             until 2019 when I applied to work as an intern for a digital agency
             in Glasgow. My aim for applying for this posiiton was to get abetter
             understanding of what it was like working within a dev environment.
