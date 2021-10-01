@@ -53,6 +53,17 @@ const projects = [
     link: "https://citycentrecomicsapp.herokuapp.com/",
     git: "https://github.com/timmlaxton/comic",
   },
+  {
+    _id: "6",
+    name: "Games Explosion",
+    image: "/images/GamesExplosion.jpg",
+    description:
+      "Computer games site that lists upcoming games and games by genre. This site fetches from an external API and manages its state through redux",
+    features:
+      "Features include: users can browse a range of upcoming games, and games by muliple genres. Search capability has also been added, enabling users to search the enitre api by a games name",
+    link: "https://gamesexplosion.netlify.app",
+    git: "https://github.com/timmlaxton/gamesexplosion",
+  },
 ];
 
 export default projects;
