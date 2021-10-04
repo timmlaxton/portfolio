@@ -81,7 +81,7 @@ const projects = [
     description: "A webiste for displaying audio equipment using React",
     features:
       "Mock site for client to show case audio equipment as well as contact section to email about work",
-    link: "https://sound-4ispazhjb-timmlaxton.vercel.app/",
+    link: "https://sound-6yriazlho-timmlaxton.vercel.app",
     git: "https://github.com/timmlaxton/sound",
   },
 ];
