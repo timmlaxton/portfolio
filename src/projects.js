@@ -64,6 +64,16 @@ const projects = [
     link: "https://gamesexplosion.netlify.app",
     git: "https://github.com/timmlaxton/gamesexplosion",
   },
+  {
+    _id: "7",
+    name: "Audio Player",
+    image: "/images/ChetBakerPlayer.jpg",
+    description: "A audio player that plays mp3s",
+    features:
+      "Users can play, skip and pause tracks, as well as open a side menu to see and choose tracks. This site is mobile friendly",
+    link: "https://chetbakersings.netlify.app/",
+    git: "hhttps://github.com/timmlaxton/ChetBakerPlaylist",
+  },
 ];
 
 export default projects;

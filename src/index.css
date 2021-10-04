@@ -1,193 +1,194 @@
 body {
-	margin: 0;
-	font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
-		'Droid Sans', 'Helvetica Neue', sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 code {
-	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
 }
 
 main {
-	min-height: 80vh;
+  min-height: 80vh;
 }
 
 .card {
-	min-height: 200px;
-	border: none;
+  min-height: 200px;
+  border: none;
 }
 
 .card-body {
-	width: 100%;
+  width: 100%;
 }
 
 .card-title {
-	position: left;
+  position: left;
 }
 
 .title {
-	margin-left: 500px;
+  margin-left: 500px;
 }
 
 .home-image {
-	width: 180px;
-	height: 600px;
+  width: 180px;
+  height: 600px;
 }
 
 .container-2 {
-	margin-bottom: 50px;
+  margin-bottom: 50px;
 
-	margin-left: 450px;
-	width: 800px;
+  margin-left: 450px;
+  width: 800px;
 }
 
 .container-3 {
-	margin-left: 200px;
-	margin-top: -1px;
+  margin-left: 200px;
+  margin-top: -1px;
 }
 
 .fa-js {
-	margin-left: 10px;
-	margin-top: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
 }
 
 .fa-react {
-	margin-left: 20px;
-	margin-bottom: 10px;
+  margin-left: 20px;
+  margin-bottom: 10px;
 }
 
 .fa-node {
-	margin-left: 50px;
+  margin-left: 50px;
 }
 
 .fa-envira {
-	margin-left: 50px;
+  margin-left: 50px;
 }
 
 .fa-bootstrap {
-	margin-left: 50px;
+  margin-left: 50px;
 }
 
 .fa-github {
-	margin-left: 50px;
+  margin-left: 50px;
 }
 
 .profile-text {
-	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
 .container-4 {
-	margin-top: 60px;
-	margin-left: 180px;
+  margin-top: 60px;
+  margin-left: 180px;
 }
 
 .homepage-language-title {
-	margin-right: 10px;
-	margin-bottom: 10px;
-	margin-top: 100px;
-}
-
-.homepage-project-title {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  margin-top: 100px;
 }
 
 .image {
-	width: 900px;
-	height: 600px;
-	margin-left: 20px;
-	margin-top: 40px;
+  width: 900px;
+  height: 600px;
+  margin-left: 20px;
+  margin-top: 40px;
 }
 
 .project-row {
-	margin-left: 100px;
+  margin-left: 100px;
 }
 
 .project-text {
-	margin-left: 90px;
-	margin-top: 50px;
+  margin-left: 90px;
+  margin-top: 50px;
 }
 
 .projects-list {
-	margin-top: 60px;
-	margin-left: 1px;
+  margin-top: 60px;
+  margin-left: 1px;
 }
 
 .about-image {
-	width: 400px;
-	height: 600px;
-	margin-left: 800px;
+  width: 400px;
+  height: 600px;
+  margin-left: 800px;
 }
 
 .about-text {
-	margin-left: -500px;
-	width: 500px;
-	border: none;
+  margin-left: -500px;
+  width: 500px;
+  border: none;
 }
 
 .email {
-	text-align: center;
-	position: absolute;
-	width: 100px;
-	height: 50px;
-	top: 20%;
-	left: 50%;
-	margin-left: -50px; /* margin is -0.5 * dimension */
-	margin-top: 80px;
-	color: #818181;
-	font-size: 20px;
+  text-align: center;
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 20%;
+  left: 50%;
+  margin-left: -50px; /* margin is -0.5 * dimension */
+  margin-top: 80px;
+  color: #818181;
+  font-size: 20px;
 }
 
 .phone {
-	text-align: center;
-	position: absolute;
-	width: 100px;
-	height: 0px;
-	top: 25%;
-	left: 50%;
-	margin-left: -50px; /* margin is -0.5 * dimension */
-	margin-top: 100px;
-	color: #818181;
-	font-size: 20px;
+  text-align: center;
+  position: absolute;
+  width: 100px;
+  height: 0px;
+  top: 25%;
+  left: 50%;
+  margin-left: -50px; /* margin is -0.5 * dimension */
+  margin-top: 100px;
+  color: #818181;
+  font-size: 20px;
 }
 
 .fa-github {
-	text-align: center;
-	position: absolute;
-	width: 100px;
-	height: 50px;
-	top: 38%;
-	left: 47%;
-	margin-left: 60px; /* margin is -0.5 * dimension */
-	margin-top: 80px;
-	color: #818181;
-	font-size: 20px;
+  text-align: center;
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 38%;
+  left: 47%;
+  margin-left: 60px; /* margin is -0.5 * dimension */
+  margin-top: 80px;
+  color: #818181;
+  font-size: 20px;
 }
 
 .fa-linkedin {
-	text-align: center;
-	position: absolute;
-	width: 100px;
-	height: 50px;
-	top: 38%;
-	left: 62%;
-	margin-left: -180px; /* margin is -0.5 * dimension */
-	margin-top: 80px;
-	color: #818181;
-	font-size: 20px;
+  text-align: center;
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  top: 38%;
+  left: 62%;
+  margin-left: -180px; /* margin is -0.5 * dimension */
+  margin-top: 80px;
+  color: #818181;
+  font-size: 20px;
 }
 
 .tools-icons {
-	display: flex;
-	flex-wrap: wrap;
-	align-items: center;
-	gap: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
 }
 
 .tools-icons i {
-	margin: 0;
+  margin: 0;
 }
 
-.tools-icons i + i {
-	/* padding-left: 1rem; */
+.copyright {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
