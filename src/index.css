@@ -187,6 +187,11 @@ main {
   margin: 0;
 }
 
+.title {
+  text-align: center;
+  font-style: bold;
+}
+
 .copyright {
   text-align: center;
   margin-left: 50px;

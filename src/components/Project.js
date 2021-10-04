@@ -6,7 +6,9 @@ const Project = ({ project }) => {
   return (
     <Card className="projects-list">
       <Card.Body>
-        <Card.Title as="div">{project.name}</Card.Title>
+        <Card.Title className="title" as="div">
+          {project.name}
+        </Card.Title>
         <Link to={`/project/${project._id}`}>
           <Card.Img src={project.image} variant="top" />
         </Link>
