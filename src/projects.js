@@ -72,7 +72,17 @@ const projects = [
     features:
       "Users can play, skip and pause tracks, as well as open a side menu to see and choose tracks. This site is mobile friendly",
     link: "https://chetbakersings.netlify.app/",
-    git: "hhttps://github.com/timmlaxton/ChetBakerPlaylist",
+    git: "https://github.com/timmlaxton/ChetBakerPlaylist",
+  },
+  {
+    _id: "8",
+    name: "Commercial Website",
+    image: "/images/SoundAndVision.jpg",
+    description: "A webiste for displaying audio equipment using React",
+    features:
+      "Mock site for client to show case audio equipment as well as contact section to email about work",
+    link: "https://sound-4ispazhjb-timmlaxton.vercel.app/",
+    git: "https://github.com/timmlaxton/sound",
   },
 ];
 
