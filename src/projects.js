@@ -76,7 +76,7 @@ const projects = [
   },
   {
     _id: "8",
-    name: "Commercial Website",
+    name: "Audio Everything",
     image: "/images/SoundAndVision.jpg",
     description: "A webiste for displaying audio equipment using React",
     features:
